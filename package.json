@@ -1,6 +1,6 @@
 {
   "name": "node-sparky-samples",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Cisco Spark client samples with node-sparky",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,6 @@
   "author": "Stève Sfartz",
   "license": "MIT",
   "dependencies": {
-    "node-sparky": "^4.0.8"
+    "node-sparky": "^4.0.10"
   }
 }
