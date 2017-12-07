@@ -1,6 +1,6 @@
 {
   "name": "node-sparky-samples",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Cisco Spark client samples with node-sparky",
   "main": "index.js",
   "scripts": {

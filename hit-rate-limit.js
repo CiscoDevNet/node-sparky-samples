@@ -5,7 +5,7 @@ var spark = new Spark({
 });
 
 // Create new room
-spark.roomAdd('Test: create message')
+spark.roomAdd('Test: rate limitation')
   .then(function (room) {
     console.log(`Created room with id: ${room.id}`);
 
